@@ -71,12 +71,13 @@ o	MTTR: Mean Time To Respond / Recover
 
 ### Architectural Components in general
 
--	Load Balancer
--	Message Queue
--	Memcache
--	Timeseries DB
--	Relational DB
--	Key-Value Store
+- Memcache
+    - Caching Strategy: LRU
+- Load Balancer
+- Message Queue
+- Timeseries DB
+- Relational DB
+- Key-Value Store
 
 ### Security
 
