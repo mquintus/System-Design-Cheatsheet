@@ -14,6 +14,7 @@
     -	Usage Analytics
     -	Payment flow
     -	Authentication
+    -	Full-Text Search / filtering by category
 -	Reduce: e.g. don't describe the CDN functionality if it is not the scope
 - Are we talking CRUD - Create Remove Update Delete?
 
@@ -41,6 +42,12 @@
     -	1 GBit per second = 100 Megabyte per second
 -	Hotspots (Time vs. DB entry)
     - Assume 1000x than average for hotspot
+
+|      |Queries per second |
+|------|------------------:|
+|Google Search |   60K qps |
+
+
 
 ### SLA - Service-Level Agreements
 
